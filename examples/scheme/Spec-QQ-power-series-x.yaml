@@ -5,5 +5,5 @@ adjectives:
   affine: [true, By definition.]
   integral: [true, The ring $\QQ \llbracket x \rrbracket$ is a domain.]
   locally-noetherian: [true, "The ring $\\QQ \\llbracket x \\rrbracket$ is Noetherian."]
-  finite-dimensional: [true, "It consists of a single point, so it is zero-dimensional."]
+  finite-dimensional: [true, "The ring $\\QQ \\llbracket x \\rrbracket$ is a DVR, so $\\Spec \\QQ \\llbracket x \\rrbracket$ has Krull dimension $1$."]
   excellent: [true, Characteristic zero Dedekind rings are excellent. ]
