@@ -5,3 +5,4 @@ adjectives:
   quasi-compact: [true, Both copies of $\AA^2_\QQ$ are quasi-compact (as they are affine).]
   integral: [true]
   regular: [true, "Every local ring of $X$ is a local ring of $\\AA^2_\\QQ$, which is regular."]
+  finite-dimensional: [true, "$\\AA^2_\\QQ$ with double origin has dimension $2$."]
