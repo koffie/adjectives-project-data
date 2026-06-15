@@ -2,9 +2,11 @@ type: scheme
 name: $\AA^1_\CC$
 description: The affine line over the complex numbers.
 adjectives:
+  nonempty: true
   affine: true
   integral: true
   regular: true
   excellent: true
   jacobson: true
+  single-pointed: [false, "The ring $\\CC[x]$ has infinitely many prime ideals: $(0)$ and $(x - c)$ for each $c \\in \\CC$."]
 

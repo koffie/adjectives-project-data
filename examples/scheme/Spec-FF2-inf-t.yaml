@@ -3,9 +3,4 @@ name: $\Spec \FF_2(t_1, t_2, t_3, \ldots)$
 description: The spectrum of the rational function field $\FF_2(t_1, t_2, t_3, \ldots)$ in countably many variables.
 
 adjectives:
-  affine: [true, By definition.]
-  reduced: [true, It is the spectrum of a field.]
-  irreducible: [true, It has a single point.]
-  regular: [true, It is the spectrum of a field.]
-  jacobson: [true, "The topological space is a single point, which is closed."]
-  finite-dimensional: [true, Fields are zero-dimensional.]
+  field-spectrum: [true, "$\\FF_2(t_1, t_2, t_3, \\ldots)$ is a field."]

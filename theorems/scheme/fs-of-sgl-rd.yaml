@@ -1,0 +1,7 @@
+type: theorem
+name: field spectra are exactly the single-pointed reduced schemes
+given: scheme X
+if: [X single-pointed, X reduced]
+then: X field-spectrum
+converse: true
+description: "If $X$ is single-pointed and reduced, its ring of global sections is a reduced ring with a unique prime ideal, hence a field. Conversely, $\\Spec k$ has a unique point and $k$ is reduced."

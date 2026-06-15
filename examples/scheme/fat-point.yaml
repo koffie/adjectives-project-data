@@ -4,5 +4,5 @@ description: The scheme $\Spec \QQ[x]/(x^2)$.
 adjectives:
   affine: [true, By definition.]
   reduced: [false, "The element $x \\in \\QQ[x]/(x^2)$ is nilpotent."]
-  irreducible: [true, "The underlying topological space has only one point."]
+  single-pointed: [true, "$\\QQ[x]/(x^2)$ has a unique prime ideal $(x)$."]
   cohen-macaulay: [true, "Zero-dimensional local ring, hence Cohen-Macaulay."]

@@ -1,0 +1,6 @@
+type: theorem
+name: single-pointed schemes are Jacobson
+given: scheme X
+if: X single-pointed
+then: X jacobson
+description: "The unique point of $X$ is closed, hence $X$ is Jacobson."

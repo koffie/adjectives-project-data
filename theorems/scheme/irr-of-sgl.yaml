@@ -1,0 +1,6 @@
+type: theorem
+name: single-pointed schemes are irreducible
+given: scheme X
+if: X single-pointed
+then: X irreducible
+description: A topological space with a single point is irreducible.

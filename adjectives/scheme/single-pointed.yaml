@@ -1,0 +1,3 @@
+type: scheme adjective
+name: single-pointed
+description: A scheme $X$ is single-pointed if its underlying topological space has exactly one point.

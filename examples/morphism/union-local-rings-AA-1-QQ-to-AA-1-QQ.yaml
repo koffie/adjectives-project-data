@@ -13,3 +13,4 @@ adjectives:
   open: false
   regular: [true, "The morphism is flat, and all fibers are indeed locally Noetherian and geometrically regular."]
   injective: [false, "All generic points are mapped to the same generic point."]
+  finite-fibers: [false, "The fiber above the generic point $\\eta \\in \\AA^1_\\QQ$ contains the generic point of every component $\\Spec \\mathcal{O}_{\\AA^1_\\QQ, x}$, so it is infinite."]

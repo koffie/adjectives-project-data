@@ -6,5 +6,4 @@ with:
 adjectives:
   injective: [false, All points map to the same point.]
   smooth: [true]
-  surjective: true
   unramified: false
