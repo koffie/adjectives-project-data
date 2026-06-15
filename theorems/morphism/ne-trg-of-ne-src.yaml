@@ -1,0 +1,6 @@
+type: theorem
+name: morphisms from nonempty schemes have nonempty target
+given: morphism f
+if: f.source nonempty
+then: f.target nonempty
+description: "A morphism $f : X \\to Y$ induces a continuous map on underlying topological spaces; any point of $X$ maps to a point of $Y$, so $Y$ is nonempty."

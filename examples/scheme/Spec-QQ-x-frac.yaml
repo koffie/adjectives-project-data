@@ -4,7 +4,4 @@ description: The scheme $\Spec \QQ(x)$, where $\QQ(x)$ is field of fractions of 
 adjectives:
   affine: [true, By definition.]
   integral: [true, Fields are domains.]
-  finite-dimensional: [true, Fields are zero-dimensional.]
-  regular: [true, Fields are regular local rings.]
-  excellent: [true, Fields are excellent rings. ]
-  jacobson: true
+  field-spectrum: [true, $\QQ(x)$ is a field.]

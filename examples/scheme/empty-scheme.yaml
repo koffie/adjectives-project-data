@@ -1,0 +1,7 @@
+type: scheme
+name: $\emptyset$
+description: "The empty scheme $\\Spec(0)$, where $0$ denotes the zero ring (the ring in which $0 = 1$)."
+adjectives:
+  nonempty: [false, By definition.]
+  affine: [true, "The empty scheme is $\\Spec(0)$, which is affine by definition."]
+  irreducible: [false, "Irreducibility requires the space to be non-empty."]

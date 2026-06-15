@@ -13,4 +13,3 @@ adjectives:
   finite: [false, "$K/k$ has subextensions of degree $2^n$ for every $n$, so $K$ is infinite-dimensional over $k$."]
   integral: [true, "Each $t_i^{1/2}$ satisfies $x^2 - t_i = 0$, hence $K/k$ is integral."]
   universally-injective: [true, "The field extension $K/k$ is purely inseparable."]
-  surjective: [true, Both source and target have a single point.]

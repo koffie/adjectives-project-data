@@ -2,6 +2,7 @@ type: scheme
 name: $\Spec \QQ \llbracket x \rrbracket$
 description: The spectrum of the power series ring $\QQ \llbracket x \rrbracket$.
 adjectives:
+  nonempty: true
   affine: [true, By definition.]
   integral: [true, The ring $\QQ \llbracket x \rrbracket$ is a domain.]
   locally-noetherian: [true, "The ring $\\QQ \\llbracket x \\rrbracket$ is Noetherian."]

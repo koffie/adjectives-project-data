@@ -2,6 +2,7 @@ type: scheme
 name: affine line with double origin
 description: The affine line with double origin over the rational numbers.
 adjectives:
+  nonempty: true
   integral: true
   regular: true
   quasi-compact: [true, As it can be covered by two quasi-compact opens (the two affine lines).]

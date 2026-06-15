@@ -7,5 +7,4 @@ with:
 adjectives:
   closed-immersion: [true, "The map on rings $\\QQ[x]/(x^2) \\to \\QQ$ is surjective."]
   flat: [false, "The inclusion $x \\QQ[x]/(x^2) \\hookrightarrow \\QQ[x]/(x^2)$ does not remain injective after tensoring with $\\QQ$ over $\\QQ[x]/(x^2)$."]
-  homeomorphism: [true, Both spaces consist of a single point.]
   open-immersion: [false, It is surjective but not an isomorphism on global sections.]

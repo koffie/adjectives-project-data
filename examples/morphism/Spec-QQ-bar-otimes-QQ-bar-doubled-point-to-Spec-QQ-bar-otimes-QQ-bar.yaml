@@ -7,4 +7,5 @@ with:
 adjectives:
   quasi-separated: [false]
   etale: [true, "Locally on the source, this morphism is the identity, which is étale."]
+  finite-fibers: [true, "The doubled point has two preimages and every other point has exactly one."]
   surjective: [true, "Every point in the target has a preimage: the doubled point covers the base point, and every other point maps to itself."]

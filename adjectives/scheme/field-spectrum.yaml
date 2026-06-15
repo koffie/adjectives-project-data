@@ -1,0 +1,3 @@
+type: scheme adjective
+name: field-spectrum
+description: A scheme $X$ is a field spectrum if it is isomorphic (as a scheme) to $\Spec k$ for some field $k$.

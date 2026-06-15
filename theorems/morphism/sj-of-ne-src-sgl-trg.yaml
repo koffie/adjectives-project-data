@@ -1,0 +1,6 @@
+type: theorem
+name: morphisms from a nonempty scheme to a single-pointed scheme are surjective
+given: morphism f
+if: [f.source nonempty, f.target single-pointed]
+then: f surjective
+description: "The image of $f$ is nonempty and contained in a one-point space, so it equals the whole target."

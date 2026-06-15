@@ -1,0 +1,6 @@
+type: theorem
+name: morphisms to a single-pointed scheme are open
+given: morphism f
+if: f.target single-pointed
+then: f open
+description: "Every subset of a one-point space is open, so the image of any open set is open in the target."

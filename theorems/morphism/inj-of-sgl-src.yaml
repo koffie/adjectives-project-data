@@ -1,0 +1,6 @@
+type: theorem
+name: morphisms from a single-pointed scheme are injective
+given: morphism f
+if: f.source single-pointed
+then: f injective
+description: "A morphism from a one-point space is injective: there are no two distinct points to violate injectivity."

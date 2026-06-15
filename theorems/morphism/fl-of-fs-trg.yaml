@@ -1,0 +1,6 @@
+type: theorem
+name: morphisms to a field spectrum are flat
+given: morphism f
+if: f.target field-spectrum
+then: f flat
+description: "Every module over a field is free, hence flat. So $\\mathcal{O}_X$ is flat over $k$."

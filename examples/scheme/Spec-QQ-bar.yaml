@@ -4,7 +4,4 @@ description: The scheme $\Spec \overline{\QQ}$, where $\overline{\QQ}$ denotes a
 adjectives:
   affine: [true, By definition.]
   integral: [true, "As $\\overline{\\QQ}$ is a domain."]
-  finite-dimensional: [true, Fields are zero-dimensional.]
-  regular: [true, Fields are regular local rings.]
-  excellent: [true, Fields are excellent rings. ]
-  jacobson: true
+  field-spectrum: [true, "$\\overline{\\QQ}$ is a field."]

@@ -4,15 +4,12 @@ with:
   source: Spec-QQ-power-series-x
   target: Spec-QQ
 adjectives:
-  flat: [true, Everything is flat over a field.]
   closed-immersion: [false, "The map $\\QQ \\to \\QQ \\llbracket x \\rrbracket$ is not surjective."]
   homeomorphism: [false, "$\\Spec \\QQ \\llbracket x \\rrbracket$ has two points (the generic point $(0)$ and the closed point $(x)$), so the map is not a bijection on underlying topological spaces."]
   locally-of-finite-type: [false, "Any finitely generated $\\QQ$-algebra has countable dimension over $\\QQ$, but $\\QQ \\llbracket x \\rrbracket \\cong \\QQ^\\NN$ has uncountable dimension."]
   formally-unramified: [false, "Take $A = \\QQ[t]/(t^2)$ with $I = (t)$ in the definition of formally unramified."]
   formally-smooth: [false, https://www.math.columbia.edu/~dejong/wordpress/?p=2424]
   integral: [false, The element $f = 1 + t + t^2 + \cdots$ is not integral over $\QQ$.]
+  finite-fibers: [true, "The only fibre is $\\Spec \\QQ \\llbracket x \\rrbracket$, which has two points: the generic point $(0)$ and the closed point $(x)$."]
   regular: [true, "The map $\\QQ \\to \\QQ \\llbracket x \\rrbracket$ is flat, and its only fibre is $\\Spec \\QQ \\llbracket x \\rrbracket$, which is geometrically regular over $\\QQ$; hence the morphism is regular by Stacks, More on Morphisms, Lemma 37.21.2."]
-  surjective: [true, "Both points of $\\Spec \\QQ \\llbracket x \\rrbracket$ map to the unique point of $\\Spec \\QQ$."]
-  closed: [true, "Any morphism to $\\Spec \\QQ$ is closed: the only subsets of $\\Spec \\QQ$ are $\\emptyset$ and $\\Spec \\QQ$, both closed."]
-  open: [true, "Surjective morphism to $\\Spec \\QQ$: the image of any non-empty open is the whole target."]
 

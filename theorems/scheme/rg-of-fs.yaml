@@ -1,0 +1,6 @@
+type: theorem
+name: field spectra are regular
+given: scheme X
+if: X field-spectrum
+then: X regular
+description: "The unique local ring of $\\Spec k$ is the field $k$ itself, which is a regular local ring of dimension $0$."

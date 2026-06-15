@@ -7,7 +7,6 @@ with:
 adjectives:
   semi-separated: [false, "The intersection of the two copies of $\\AA^2_\\QQ$ (which are both affine) is $\\AA^2_\\QQ \\setminus \\{ 0 \\}$, which is not affine."]
   etale: [false, "The source contains a copy of the affine plane as an open, and this is certainly not etale over a point. "]
-  surjective: [true, The target consists of a single point and the source is non-empty.]
   finite-fibers: [false, "There is only one fiber, which is infinite."]
   closed: [true, The target is topologically discrete.]
   locally-of-finite-presentation: [true, "Both copies of $\\AA^2_\\QQ$ are locally of finite presentation over $\\QQ$."]

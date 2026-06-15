@@ -2,6 +2,7 @@ type: scheme
 name: $\Spec \QQ[x, y] / (xy)$
 description: The axes of the affine plane over the rational numbers.
 adjectives:
+  nonempty: true
   affine: [true, By definition.]
   connected: true
   irreducible: [false, "The closed subsets corresponding to the ideals $(x)$ and $(y)$ cover the scheme, but neither is the whole scheme."]

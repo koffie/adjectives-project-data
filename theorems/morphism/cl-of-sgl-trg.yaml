@@ -1,0 +1,6 @@
+type: theorem
+name: morphisms to a single-pointed scheme are closed
+given: morphism f
+if: f.target single-pointed
+then: f closed
+description: "Every subset of a one-point space is closed, so the image of any closed set is closed in the target."

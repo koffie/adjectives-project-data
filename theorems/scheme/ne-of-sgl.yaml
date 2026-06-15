@@ -1,0 +1,6 @@
+type: theorem
+name: single-pointed schemes are nonempty
+given: scheme X
+if: X single-pointed
+then: X nonempty
+description: A scheme with exactly one point is in particular nonempty.

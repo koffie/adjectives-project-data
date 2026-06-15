@@ -1,0 +1,6 @@
+type: theorem
+name: field spectra are excellent
+given: scheme X
+if: X field-spectrum
+then: X excellent
+description: "Fields are excellent rings. See https://stacks.math.columbia.edu/tag/07QW"
